@@ -9,7 +9,7 @@ Per velocizzare la parte di styling ho deciso di utilizzare tailwind css, un fra
 
 [Live demo](https://vue-tailwind-tnt-blog.vercel.app/)
 
-# setup vue-tailwind
+# setup vue-tailwind 
 Iniziare ad usare Tailwind con vue è davvero semplice, basta installare Tailwind via npm o yarn :
 
 ```sh
